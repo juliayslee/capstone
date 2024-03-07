@@ -1,4 +1,4 @@
-# capstone
+# Capstone Project
 An audio classification approach to assess bird transportation welfare
 
 
